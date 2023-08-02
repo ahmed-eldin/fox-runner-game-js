@@ -1,5 +1,5 @@
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="834" alt="Screenshot 2023-08-01 at 9 31 51 PM" src="https://github.com/ahmed-eldin/fox-runner-game-js/assets/111728755/adc1555e-231b-4e31-84a7-19e77c4712fc">
 
 
 # JavaScript Fox Runner Game
